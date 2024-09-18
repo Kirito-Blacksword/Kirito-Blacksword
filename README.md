@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-Hey there, I'm a 16-year-old with a passion for front-end development and gaming. You'll often find me immersed in the world of coding and exploring the art of creating digital experiences.
+Hey there, I'm a 16-year-old with a passion for front-end development and gaming.
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [yathaarth4u@gmail.com](mailto:yathaarth4u@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Intresting projects
-* ⚡  I was bitten by a radioactive computer
+
 
 ### Skills
 
